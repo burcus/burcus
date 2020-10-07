@@ -1,15 +1,19 @@
-<!--
-### About me
 
-Hi, I'm Burcu. I'm computer engineer and working in a company. Also I'm MSc student.
+### Hi 👋
+-----
+I'm Burcu. I'm computer engineer and I'm MSc student.
+<!--
 - :milky_way: I’m manager on an IoT project.
 - :milky_way: I’m personally learning Flutter
+-->
 - ⚡ [My Personal Blog](https://medium.com/@burcus)
 - 💬 [For contact](mailto:burcuussoylemez@gmail.com)
 
-#### Tools
+#### Links
 
+[Linkedin](www.linkedin.com/in/burcus)
 
+<!--
 **burcus/burcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
