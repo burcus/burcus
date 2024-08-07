@@ -1,11 +1,7 @@
 
 ### Hi 👋
 -----
-I'm Burcu. I'm computer engineer and I'm MSc student.
-<!--
-- :milky_way: I’m manager on an IoT project.
-- :milky_way: I’m personally learning Flutter
--->
+I'm Burcu and I'm Lead Mobile Engineer at AppNation. (✨ In short Flutter developer, lover & still learner)
 - ⚡ [My Personal Blog](https://medium.com/@burcus)
 - 💬 [For contact](mailto:burcuussoylemez@gmail.com)
 
